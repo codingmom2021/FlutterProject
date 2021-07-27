@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8518896023",
+    "project_id": "fir-messaging-sample-481cb",
+    "storage_bucket": "fir-messaging-sample-481cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8518896023:android:3b62a27bee76c95855dcd2",
+        "android_client_info": {
+          "package_name": "kr.co.intense.firebase_messaging_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8518896023-66ht2mnk8ko776ffumcal9u0biejc0ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7K0khTmFKv3EhZPvJuOV135E_i_y2LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8518896023-66ht2mnk8ko776ffumcal9u0biejc0ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
